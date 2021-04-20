@@ -1,0 +1,2 @@
+/*!  The roject developed by chengpeiquan!  */
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["home"],{"143f":function(n,e,o){},7181:function(n,e,o){"use strict";o("143f")},"864c":function(n,e,o){"use strict";o.r(e);var t=o("7a23"),c=Object(t["defineComponent"])({expose:[],setup:function(n){return console.log("test"),{}}});o("7181"),e["default"]=c}}]);
