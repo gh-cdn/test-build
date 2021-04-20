@@ -1,0 +1,2 @@
+/*!  The roject developed by chengpeiquan!  */
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e1bf0"],{"7c6d":function(e,c,n){"use strict";n.r(c);var t=n("7a23"),o={class:"global__system--empty-tips"};function s(e,c){return Object(t["openBlock"])(),Object(t["createBlock"])("section",o," 请先选择左侧的页面或者元件 ")}const a={};a.render=s;c["default"]=a}}]);
