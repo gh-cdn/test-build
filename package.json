@@ -1,0 +1,11 @@
+{
+  "name": "test-build",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "git": "git add . && git commit -m \"try.\" && git push"
+  },
+  "repository": "https://github.com/7homas-huang/test-build.git",
+  "author": "chengpeiquan <chengpeiquan@chengpeiquan.com>",
+  "license": "MIT"
+}
