@@ -1,0 +1,2 @@
+/*!  The roject developed by chengpeiquan!  */
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["home"],{"864c":function(e,o,n){"use strict";n.r(o);var t=n("7a23"),c=Object(t["defineComponent"])({expose:[],setup:function(e){return console.log("test"),function(e,o){return Object(t["openBlock"])(),Object(t["createBlock"])("div",null," Hello World ")}}});c.__scopeId="data-v-53cdd1b0";o["default"]=c}}]);
