@@ -1,2 +1,0 @@
-/*!  The roject developed by chengpeiquan!  */
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-3284116e"],{"4fcd":function(e,t,n){"use strict";n("9b85")},"9b85":function(e,t,n){},f8cd:function(e,t,n){"use strict";n.r(t);var c=n("7a23"),o=n("88ed"),p=Object(c["defineComponent"])({expose:[],props:{propValue:{type:Object,require:!0,default:{content:"",style:{}}}},setup:function(e){return{getStyle:o["f"]}}});n("4fcd");p.__scopeId="data-v-f268f6e8";t["default"]=p}}]);
