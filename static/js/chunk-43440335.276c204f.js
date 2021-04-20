@@ -1,5 +1,5 @@
 /*!  The roject developed by chengpeiquan!  */
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-b5fc35ba"],{"3d60":function(t,e,n){"use strict";n("fef0")},"4ac8":function(t,e,n){"use strict";var r=n("0613"),o=function(t){var e="";switch(t.component){case"v-bg":case"v-avatar":case"v-props":case"v-role":e="img";break;case"v-text-options":case"v-image-options":e="options";break;case"v-normal-dialogue":e="normal-dialogue";break;case"v-quick-dialogue":e="quick-dialogue";break}r["a"].commit("property/changePanel",{type:e,data:t})};e["a"]=o},aa47:function(t,e,n){"use strict";
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-43440335"],{"3d60":function(t,e,n){"use strict";n("fef0")},"4ac8":function(t,e,n){"use strict";var r=n("0613"),o=function(t){var e="";switch(t.component){case"v-bg":case"v-avatar":case"v-props":case"v-role":e="img";break;case"v-text-options":case"v-image-options":e="options";break;case"v-normal-dialogue":e="normal-dialogue";break;case"v-quick-dialogue":e="quick-dialogue";break}r["a"].commit("property/changePanel",{type:e,data:t})};e["a"]=o},aa47:function(t,e,n){"use strict";
 /**!
  * Sortable 1.10.2
  * @author	RubaXa   <trash@rubaxa.org>
